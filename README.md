@@ -11,6 +11,8 @@ spring-boot-pagination-search-and-filter/
 │   │   ├── java/
 │   │   │   └── org/
 │   │   │       └── tutorials/
+│   │   │           ├── config/
+│   │   │           │   └── OpenApiConfig.java 🔧
 │   │   │           ├── controller/
 │   │   │           │   └── ProductController.java 🖥️
 │   │   │           ├── dto/
